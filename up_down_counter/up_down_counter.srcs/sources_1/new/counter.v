@@ -11,7 +11,7 @@ always @(posedge clk or posedge rst) begin
   end else
   count_reg<=count_next;
   end
-  always @(*)begin
+  always @(count_reg)begin
   count_next = count_reg+1;
 end
 assign count= count_reg;
