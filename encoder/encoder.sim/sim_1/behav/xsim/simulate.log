@@ -1,7 +1,0 @@
-Time resolution is 1 ps
-data=0001, y=00
-data=0010, y=01
-data=0100, y=10
-data=1000, y=11
-data=1010, y=xx
-$finish called at time : 50 ns : File "C:/Users/beyza/Documents/GitHub/verilog/encoder/encoder.srcs/sim_1/new/tb.v" Line 22

@@ -1,1 +1,0 @@
---incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "tb_modulus_counter_reset_after_7_behav" "xil_defaultlib.tb_modulus_counter_reset_after_7" "xil_defaultlib.glbl" -log "elaborate.log" 
