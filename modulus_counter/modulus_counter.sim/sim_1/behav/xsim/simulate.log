@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Count = 000
+Count = 001
+Count = 010
+Count = 011
+Count = 100
+Count = 101
+Count = 110
+$finish called at time : 70 ns : File "C:/Users/beyza/Documents/GitHub/verilog/modulus_counter/modulus_counter.srcs/sim_1/new/tb_m.v" Line 46
